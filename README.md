@@ -1,6 +1,4 @@
 # b0g0x
-Got it! Here's a solid description, install instructions, and usage for your new automated bug bounty tool named **`b0g0x`**. This tool integrates multiple reconnaissance utilities like **WhatWeb**, **Nmap**, **Nikto**, and **Subfinder**, making it a powerful **automated recon toolkit**.
-
 ---
 
 ## 🚀 b0g0x — Automated Bug Bounty Recon Tool
